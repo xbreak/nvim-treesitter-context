@@ -11,3 +11,7 @@
 (linkage_specification
   body: (declaration_list (_) @context.end)
 ) @context
+
+(namespace_definition
+  body: (_ (_) @context.end)
+) @context
